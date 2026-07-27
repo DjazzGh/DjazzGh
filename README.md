@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Djazia Ghomari
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](YOUR_LINKEDIN)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/djazia-ghomari-6994842b9/)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:djaziaghomari24@gmail.com)
 
 🎓 Cybersecurity Engineering Student at USTHB
