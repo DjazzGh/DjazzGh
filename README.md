@@ -5,11 +5,11 @@
 
 🎓 Cybersecurity Engineering Student at USTHB
 
-I'm passionate about cybersecurity across both offensive and defensive domains, with interests spanning Security Operations (SOC), Incident Response, Threat Intelligence, Digital Forensics, Malware Analysis, Network Security, and Penetration Testing.
+I'm passionate about cybersecurity across both offensive and defensive domains, with interests spanning Security Operations (SOC), Incident Response, Threat Intelligence, Digital Forensics, Penetration Testing, Network Security, and Malware Analysis.
 
 Alongside cybersecurity, I have experience as a Full-Stack Developer and enjoy building secure applications, automation tools, and technical projects that combine software engineering with security.
 
-Currently expanding my skills through hands-on labs, CTF competitions, malware analysis projects, security research, and real-world development work.
+Currently expanding my skills through hands-on labs, CTF competitions, security research, and real-world development work.
 
 ---
 
@@ -32,29 +32,24 @@ Currently expanding my skills through hands-on labs, CTF competitions, malware a
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black)
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=plastic&logo=kalilinux&logoColor=white)
 ![Parrot OS](https://img.shields.io/badge/Parrot_OS-15AABF?style=plastic)
-
 ![Nmap](https://img.shields.io/badge/Nmap-00457C?style=plastic)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=plastic&logo=wireshark&logoColor=white)
 ![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6633?style=plastic)
 ![OWASP ZAP](https://img.shields.io/badge/OWASP_ZAP-00549E?style=plastic)
 ![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=plastic)
-
 ![Volatility 3](https://img.shields.io/badge/Volatility_3-2E3440?style=plastic)
 ![PEStudio](https://img.shields.io/badge/PEStudio-4B5563?style=plastic)
 ![Regshot](https://img.shields.io/badge/Regshot-059669?style=plastic)
 ![YARA](https://img.shields.io/badge/YARA-E11D48?style=plastic)
 ![Ghidra](https://img.shields.io/badge/Ghidra-DC2626?style=plastic)
-
 ![Splunk](https://img.shields.io/badge/Splunk-000000?style=plastic&logo=splunk&logoColor=white)
 ![Wazuh](https://img.shields.io/badge/Wazuh-0267C1?style=plastic)
 ![MITRE ATT&CK](https://img.shields.io/badge/MITRE_ATT%26CK-A16207?style=plastic)
-
 ![Gobuster](https://img.shields.io/badge/Gobuster-2563EB?style=plastic)
 ![Hydra](https://img.shields.io/badge/Hydra-7E22CE?style=plastic)
 ![John the Ripper](https://img.shields.io/badge/John_The_Ripper-991B1B?style=plastic)
 ![Hashcat](https://img.shields.io/badge/Hashcat-7C2D12?style=plastic)
 ![Aircrack-ng](https://img.shields.io/badge/Aircrack--ng-0F766E?style=plastic)
-
 ![Cisco](https://img.shields.io/badge/Cisco-049FD9?style=plastic&logo=cisco&logoColor=white)
 ![Packet Tracer](https://img.shields.io/badge/Packet_Tracer-1D4ED8?style=plastic)
 
@@ -85,11 +80,12 @@ Currently expanding my skills through hands-on labs, CTF competitions, malware a
 
 ## 📚 Continuous Learning
 
-- 🎯 Hack The Box Academy
-- 🛡️ TryHackMe
-- 🔍 CyberDefenders
-- 📊 Blue Team Labs Online
-- 🚩 Capture The Flag (CTF) Competitions
-- 💼 Freelance Projects
+- Hack The Box
+- TryHackMe
+- CyberDefenders
+- Blue Team Labs Online
+- Capture The Flag (CTF) Competitions
+- Freelance Projects
+  
 
 > *"Mastery is built through consistent learning."*
