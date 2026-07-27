@@ -14,36 +14,66 @@ I continuously improve my skills through hands-on labs, CTF competitions, malwar
 
 ### Areas of Interest
 - Security Operations Center (SOC)
+- Penetration Testing
 - Incident Response
 - Threat Intelligence
 - Threat Hunting
 - Digital Forensics
-- Malware Analysis
 - SIEM & Log Analysis
 - Network Security
 - Vulnerability Assessment
-- Penetration Testing
 
 ### Security Tools
 
 ![Nmap](https://img.shields.io/badge/Nmap-00457C?style=plastic)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=plastic&logo=wireshark&logoColor=white)
 ![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6633?style=plastic)
+![OWASP ZAP](https://img.shields.io/badge/OWASP_ZAP-00549E?style=plastic)
+![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=plastic)
 ![Volatility 3](https://img.shields.io/badge/Volatility_3-2E3440?style=plastic)
+![Autopsy](https://img.shields.io/badge/Autopsy-4B5563?style=plastic)
+![FTK Imager](https://img.shields.io/badge/FTK_Imager-5B21B6?style=plastic)
 ![PEStudio](https://img.shields.io/badge/PEStudio-4B5563?style=plastic)
 ![FLOSS](https://img.shields.io/badge/FLOSS-7C3AED?style=plastic)
 ![Regshot](https://img.shields.io/badge/Regshot-059669?style=plastic)
+![YARA](https://img.shields.io/badge/YARA-E11D48?style=plastic)
+![IDA Pro](https://img.shields.io/badge/IDA_Pro-9333EA?style=plastic)
+![Ghidra](https://img.shields.io/badge/Ghidra-DC2626?style=plastic)
+![x64dbg](https://img.shields.io/badge/x64dbg-2563EB?style=plastic)
+![Procmon](https://img.shields.io/badge/Procmon-16A34A?style=plastic)
+![Process Explorer](https://img.shields.io/badge/Process_Explorer-0284C7?style=plastic)
+![Sysmon](https://img.shields.io/badge/Sysmon-1D4ED8?style=plastic)
+![MITRE ATT&CK](https://img.shields.io/badge/MITRE_ATT%26CK-A16207?style=plastic)
+![MISP](https://img.shields.io/badge/MISP-D97706?style=plastic)
+![TheHive](https://img.shields.io/badge/TheHive-CA8A04?style=plastic)
+![Cortex](https://img.shields.io/badge/Cortex-65A30D?style=plastic)
+![Splunk](https://img.shields.io/badge/Splunk-000000?style=plastic&logo=splunk&logoColor=white)
+![Elastic SIEM](https://img.shields.io/badge/Elastic_SIEM-005571?style=plastic&logo=elastic&logoColor=white)
+![Kibana](https://img.shields.io/badge/Kibana-005571?style=plastic&logo=kibana&logoColor=white)
+![Wazuh](https://img.shields.io/badge/Wazuh-0267C1?style=plastic)
+![Microsoft Sentinel](https://img.shields.io/badge/Microsoft_Sentinel-0078D4?style=plastic&logo=microsoft&logoColor=white)
+![QRadar](https://img.shields.io/badge/QRadar-052FAD?style=plastic)
+![Suricata](https://img.shields.io/badge/Suricata-EF4444?style=plastic)
+![Snort](https://img.shields.io/badge/Snort-F97316?style=plastic)
+![Zeek](https://img.shields.io/badge/Zeek-7C3AED?style=plastic)
+![OpenVAS](https://img.shields.io/badge/OpenVAS-16A34A?style=plastic)
+![Nessus](https://img.shields.io/badge/Nessus-00C176?style=plastic)
+![Nikto](https://img.shields.io/badge/Nikto-DC2626?style=plastic)
+![Gobuster](https://img.shields.io/badge/Gobuster-2563EB?style=plastic)
+![Hydra](https://img.shields.io/badge/Hydra-7E22CE?style=plastic)
+![John_the_Ripper](https://img.shields.io/badge/John_The_Ripper-991B1B?style=plastic)
+![Hashcat](https://img.shields.io/badge/Hashcat-7C2D12?style=plastic)
+![Aircrack-ng](https://img.shields.io/badge/Aircrack--ng-0F766E?style=plastic)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=plastic&logo=kalilinux&logoColor=white)
+![Parrot OS](https://img.shields.io/badge/Parrot_OS-15AABF?style=plastic)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=plastic&logo=docker&logoColor=white)
-
-### Networking
-
 ![Cisco](https://img.shields.io/badge/Cisco-049FD9?style=plastic&logo=cisco&logoColor=white)
-![TCP/IP](https://img.shields.io/badge/TCP%2FIP-Networking-blue?style=plastic)
-![OSPF](https://img.shields.io/badge/OSPF-Routing-success?style=plastic)
-![BGP](https://img.shields.io/badge/BGP-Routing-orange?style=plastic)
-![MPLS](https://img.shields.io/badge/MPLS-Networking-red?style=plastic)
+![Packet Tracer](https://img.shields.io/badge/Packet_Tracer-1D4ED8?style=plastic)
 ![GNS3](https://img.shields.io/badge/GNS3-326CE5?style=plastic)
+![pfSense](https://img.shields.io/badge/pfSense-212121?style=plastic)
+![OpenVPN](https://img.shields.io/badge/OpenVPN-EA7E20?style=plastic)
+![TCP/IP](https://img.shields.io/badge/TCP%2FIP-Networking-blue?style=plastic)
 
 ---
 
@@ -76,22 +106,7 @@ I continuously improve my skills through hands-on labs, CTF competitions, malwar
 - CyberDefenders
 - Blue Team Labs Online
 - CTF Competitions
-- Security Research
-- Malware Analysis
-- Network Security Labs
-
----
-
-## 📌 Featured Projects
-
-### 🦠 Malware Analysis & Digital Forensics
-Static and dynamic analysis of real-world malware samples using Volatility 3, Wireshark, PEStudio, FLOSS, and Regshot.
-
-### 🌐 Enterprise Network Security
-Design and deployment of enterprise-grade routing and security architectures using OSPF, BGP, MPLS, ACLs, QoS, and VPN technologies.
-
-### 🔐 Python Cryptography Toolkit
-Implementation of classical and modern cryptographic algorithms including AES, DES, RSA, Diffie-Hellman, ElGamal, digital signatures, and hashing algorithms.
+- Freelance projects
 
 ---
 
