@@ -1,14 +1,102 @@
-# 💫 About Me:
-I'm a full-stack web developer specializing in the MERN stack, with a passion for building dynamic and secure applications. I'm deeply interested in AI and cybersecurity, constantly exploring ways to integrate cutting-edge technologies and robust security practices into my projects. Excited to contribute to innovative solutions and collaborate on open-source initiatives!
+# 👋 Hi, I'm Djazia Ghomari
 
+🎓 Cybersecurity Engineering Student at USTHB
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/djazia-ghomari-6994842b9/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:djazia.gh77@gmail.com) 
+I'm passionate about cybersecurity across both offensive and defensive domains, with interests spanning Security Operations (SOC), Incident Response, Threat Intelligence, Digital Forensics, Malware Analysis, Network Security, and Penetration Testing.
 
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=plastic&logo=firebase) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=white) ![Chakra](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=plastic&logo=chakraui&logoColor=white) ![DaisyUI](https://img.shields.io/badge/daisyui-5A0EF8?style=plastic&logo=daisyui&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=plastic&logo=socket.io&badgeColor=010101) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=plastic&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=plastic&logo=react-router&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=plastic&logo=express&logoColor=%2361DAFB) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=plastic&logo=nodemon&logoColor=%BBDEAD) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=plastic&logo=supabase&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=plastic&logo=sqlite&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=plastic&logo=firebase&logoColor=ffcd34) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=plastic&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=plastic&logo=cisco&logoColor=black) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=plastic&logo=notion&logoColor=white) ![Prettier](https://img.shields.io/badge/prettier-%23F7B93E.svg?style=plastic&logo=prettier&logoColor=black) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white) ![Bitwarden](https://img.shields.io/badge/bitwarden-%23175DDC.svg?style=plastic&logo=bitwarden&logoColor=white)
-# 📊 GitHub Stats:
-![](https://nirzak-streak-stats.vercel.app/?user=DjazzGh&theme=material-palenight&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=DjazzGh&theme=material-palenight&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+Alongside cybersecurity, I have experience as a Full-Stack Developer and enjoy building secure applications, automation tools, and technical projects that combine software engineering with security.
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+I continuously improve my skills through hands-on labs, CTF competitions, malware analysis projects, security research, and real-world development work.
+
+---
+
+## 🔐 Cybersecurity
+
+### Areas of Interest
+- Security Operations Center (SOC)
+- Incident Response
+- Threat Intelligence
+- Threat Hunting
+- Digital Forensics
+- Malware Analysis
+- SIEM & Log Analysis
+- Network Security
+- Vulnerability Assessment
+- Penetration Testing
+
+### Security Tools
+
+![Nmap](https://img.shields.io/badge/Nmap-00457C?style=plastic)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=plastic&logo=wireshark&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6633?style=plastic)
+![Volatility 3](https://img.shields.io/badge/Volatility_3-2E3440?style=plastic)
+![PEStudio](https://img.shields.io/badge/PEStudio-4B5563?style=plastic)
+![FLOSS](https://img.shields.io/badge/FLOSS-7C3AED?style=plastic)
+![Regshot](https://img.shields.io/badge/Regshot-059669?style=plastic)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=plastic&logo=docker&logoColor=white)
+
+### Networking
+
+![Cisco](https://img.shields.io/badge/Cisco-049FD9?style=plastic&logo=cisco&logoColor=white)
+![TCP/IP](https://img.shields.io/badge/TCP%2FIP-Networking-blue?style=plastic)
+![OSPF](https://img.shields.io/badge/OSPF-Routing-success?style=plastic)
+![BGP](https://img.shields.io/badge/BGP-Routing-orange?style=plastic)
+![MPLS](https://img.shields.io/badge/MPLS-Networking-red?style=plastic)
+![GNS3](https://img.shields.io/badge/GNS3-326CE5?style=plastic)
+
+---
+
+## 💻 Development
+
+### Languages
+
+![Python](https://img.shields.io/badge/Python-3670A0?style=plastic&logo=python&logoColor=ffdd54)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=plastic&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=plastic&logo=c&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=plastic&logo=typescript&logoColor=white)
+
+### Full-Stack Technologies
+
+![React](https://img.shields.io/badge/React-20232A?style=plastic&logo=react&logoColor=61DAFB)
+![Next JS](https://img.shields.io/badge/Next.js-black?style=plastic&logo=next.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=plastic&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=plastic)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=plastic&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=plastic&logo=firebase&logoColor=black)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=plastic&logo=supabase&logoColor=white)
+
+---
+
+## 🚩 Hands-On Learning
+
+- Hack The Box Academy
+- TryHackMe
+- CyberDefenders
+- Blue Team Labs Online
+- CTF Competitions
+- Security Research
+- Malware Analysis
+- Network Security Labs
+
+---
+
+## 📌 Featured Projects
+
+### 🦠 Malware Analysis & Digital Forensics
+Static and dynamic analysis of real-world malware samples using Volatility 3, Wireshark, PEStudio, FLOSS, and Regshot.
+
+### 🌐 Enterprise Network Security
+Design and deployment of enterprise-grade routing and security architectures using OSPF, BGP, MPLS, ACLs, QoS, and VPN technologies.
+
+### 🔐 Python Cryptography Toolkit
+Implementation of classical and modern cryptographic algorithms including AES, DES, RSA, Diffie-Hellman, ElGamal, digital signatures, and hashing algorithms.
+
+---
+
+## 🌐 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](YOUR_LINKEDIN)
+
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:djaziaghomari24@gmail.com)
